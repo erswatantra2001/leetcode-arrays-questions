@@ -1,0 +1,1 @@
+// it is same as of the fibonacci sequence
